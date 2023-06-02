@@ -1,5 +1,7 @@
 This is my super cool paper
-Written by: ME! And all my friends, who are great.
+
+Written by: ME!
+And all my friends, who are great.
 
 My affiliation: UC Berkeley
 
