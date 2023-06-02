@@ -1,6 +1,8 @@
 This is my super cool paper
 Written by: ME!
 
+My affiliation: UC Berkeley
+
 This is a very important problem.
 
 ## References
